@@ -1,4 +1,4 @@
-const table = document.querySelector('myTable')
+const table = document.querySelector('#myTable')
 function createTable() {
     //Write your code here
   let rows = prompt('Input number of rows')
